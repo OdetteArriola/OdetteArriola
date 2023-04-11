@@ -1,4 +1,6 @@
 Desarrolladora web full-stack | Frontend | JavaScript | React | Express | Sequelize
+
+
 LinkedIn: https://www.linkedin.com/in/odette-arriola/
 ¡Hola! soy Odette, soy desarrolladora web full-stack, soy psicóloga y soy mediadora de lectura, una mezcla un poco extraña.
 
